@@ -1,0 +1,1 @@
+Welcome to the NPC Information Addon! Everything is alterable in-game, so no need to change anything in the addon.
