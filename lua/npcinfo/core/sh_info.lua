@@ -6,10 +6,6 @@ local NPCColorBar = GetConVar("NPC_STATS_BarColor");
 local NPCInfoTrace = GetConVar("NPC_STATS_InfoTrace")
 local NPCInfoTraceFade = GetConVar("NPC_STATS_InfoTraceFade")
 
-concommand.Add("npcinfo_printtables", function(ply)
-	PrintTable(NPC_STATS);
-end);
-
 /* Player Functions*/
 local plyMeta = FindMetaTable("Player");
 
