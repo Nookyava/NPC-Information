@@ -1,0 +1,14 @@
+{
+	"title"		:	"NPC-Information",
+	"type"		:	"npc",
+	"tags"		:	[ "scenic", "cartoon" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.gitignore",
+		"*.gitattributes",
+		".md"
+	]
+}
