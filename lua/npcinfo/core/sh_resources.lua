@@ -2,7 +2,7 @@ NPC_STATS = {};
 
 if SERVER then	
 	/* Downloads */
-	resource.AddFile("materials/nook/npc_information/hp_bar.png");
+	resource.AddFile("resource/fonts/RobotoCondensed-Regular.ttf");
 	
 	/* Networking */
 	util.AddNetworkString("NPC_STATS_receive_Table");
