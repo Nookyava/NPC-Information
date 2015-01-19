@@ -1,7 +1,7 @@
 "AddonInfo"
 {
 	"name" "NPC Information"
-	"author_name" "Author Name"
+	"author_name" "Nookyava"
 	"info" "
 {
 	"description": "Description",
